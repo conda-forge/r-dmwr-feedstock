@@ -14,9 +14,9 @@ source:
   sha256: 8ead6a21194e165d516196259c2d5f3b4d587b2e3dc6001023f5edf6139d3ee3
 
 build:
+  noarch: generic
   merge_build_host: True  # [win]
-  number: 1
-  skip: true  # [win32]
+  number: 1001
   rpaths:
     - lib/R/lib/
     - lib/
@@ -56,8 +56,7 @@ about:
   summary: This package includes functions and data accompanying the book  "Data Mining with
     R, learning with case studies" by Luis Torgo, CRC Press 2010.
   license_family: GPL3
-  license_file: '{{ environ["PREFIX"] }}/lib/R/share/licenses/GPL-3'  # [unix]
-  license_file: '{{ environ["PREFIX"] }}\R\share\licenses\GPL-3'  # [win]
+  license_file: '{{ environ["PREFIX"] }}/lib/R/share/licenses/GPL-3'
 
 extra:
   recipe-maintainers:
