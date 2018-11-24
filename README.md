@@ -14,9 +14,8 @@ Summary: This package includes functions and data accompanying the book  "Data M
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-dmwr-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-dmwr-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/r-dmwr-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-dmwr-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-dmwr-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-dmwr-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/r-dmwr-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/r-dmwr-feedstock)
 
 Current release info
 ====================
