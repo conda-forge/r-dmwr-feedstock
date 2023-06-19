@@ -1,11 +1,11 @@
-About r-dmwr
-============
+About r-dmwr-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-dmwr-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=DMwR
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-dmwr-feedstock/blob/main/LICENSE.txt)
 
 Summary: This package includes functions and data accompanying the book  "Data Mining with R, learning with case studies" by Luis Torgo, CRC Press 2010.
 
